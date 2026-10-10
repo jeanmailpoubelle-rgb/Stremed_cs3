@@ -1,0 +1,10 @@
+{
+  "name": "Cloudstream Media Finder",
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.0.0.zip",
+  "sha256": "1faa197fe6b2e961806b45b0bf46bd07658ada1b26ef3b38dc332427a1c72f24",
+  "fileSize": 30999,
+  "minimumChromeVersion": "111",
+  "requiresBridgeVersion": 7,
+  "automaticUpdates": false
+}
