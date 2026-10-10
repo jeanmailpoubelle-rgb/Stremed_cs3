@@ -1,18 +1,11 @@
 {
   "name": "Cloudstream Media Finder",
-  "version": "1.1.1",
-  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.1.zip",
-  "sha256": "931b43a073798975a8031480bc226256f3ecd6ee9ae26cf173c9bb38ff2938b3",
-  "fileSize": 36985,
+  "version": "1.1.2",
+  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.2.zip",
+  "sha256": "ee295570b797d94aa06a0e4c44a0d7bd2015d79cc633e5350150b6a3e9ff24ab",
+  "fileSize": 37822,
   "minimumChromeVersion": "111",
   "requiresBridgeVersion": 7,
   "automaticUpdates": false,
-  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc",
-  "crx": {
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.1.crx",
-    "sha256": "0ce9b098f1471d0c434f64e7cb51c4db9eb3de3408851cb64fa3ea527c98e304",
-    "fileSize": 37578,
-    "extensionId": "nbmahkighheefgpcgehllppifcblnccc",
-    "format": 3
-  }
+  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc"
 }
