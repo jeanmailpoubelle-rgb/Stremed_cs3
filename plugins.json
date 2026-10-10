@@ -126,12 +126,12 @@
     "name": "Anime-Sama"
   },
   {
-    "fileHash": "sha256-eaf4d828f8b170f88589932e42e16ec5beb460b5f5bbf36f0b3db1db6c1084e2",
+    "fileHash": "sha256-e654be63ab8ea62e5722cd52e01f460ef260b0aeee0a788b5eea8ce236bd64e1",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 165769,
+    "fileSize": 165740,
     "status": 1,
-    "language": "zh",
+    "language": "zh-HK",
     "authors": [
       "UVOD Extension Contributors"
     ],
@@ -141,10 +141,10 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "UVOD",
     "description": "UVOD Cantonese or Hong Kong movies and episodes, portrait cards and randomized discovery, shared French-first metadata with artwork, cast, French genres, runtime and ratings. Sports, Kids and category 108 are excluded.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/UVOD-v8.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/UVOD-v9.cs3",
     "name": "UVOD"
   },
   {
@@ -167,22 +167,22 @@
     "name": "Browser Stream Bridge"
   },
   {
-    "fileHash": "sha256-5e286e8e4c8b7c31e50ce1f40353a02f75cc1099a993a87a7e649a8387081dc8",
+    "fileHash": "sha256-37e7c84e68a1b007971cae210504400a7edff1f05251b3a09b222330c98791c0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 178109,
+    "fileSize": 178131,
     "status": 1,
-    "language": "en",
+    "language": "zh-HK",
     "authors": [
       "YesHD Extension Contributors"
     ],
     "tvTypes": [
       "Movie"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "YesHD",
     "description": "YesHD Hong Kong movies with French genres by catalogue size and decades newest to oldest, portrait cards, IMDb scores and cast. Erotic/18+ excluded.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v7.cs3",
-    "name": "YESHD"
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v8.cs3",
+    "name": "YesHD"
   }
 ]
