@@ -7,5 +7,16 @@
   "minimumChromeVersion": "111",
   "requiresBridgeVersion": 7,
   "automaticUpdates": false,
-  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc"
+  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc",
+  "crx": {
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.4.crx",
+    "sha256": "616c263378a7d1b945e3c8c006e7201a8bc0105b5320d70857ea563ba2bb8bed",
+    "fileSize": 38468,
+    "extensionId": "nbmahkighheefgpcgehllppifcblnccc",
+    "format": 3
+  },
+  "updateManifestUrl": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/browser-updates.xml",
+  "selfHostedUpdatesConfigured": true,
+  "updateMechanism": "browser-native-signed-crx",
+  "androidUpdateValidation": "pending"
 }
