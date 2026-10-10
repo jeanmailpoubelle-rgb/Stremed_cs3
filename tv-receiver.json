@@ -1,0 +1,13 @@
+{
+  "name": "Cloudstream TV Receiver",
+  "package": "org.cloudstreambridge.receiver",
+  "version": "0.1.0",
+  "versionCode": 1,
+  "sha256": "731269f7ba19e3a26d84c0a8043dbd6996d47998ebd3e754a292ee0b2f963aad",
+  "fileSize": 1328779,
+  "signerSha256": "be9fe04d2c0a31cc6b0cd09d118b9ccc3a95074146696eecc955776981fe5e28",
+  "minimumAndroidSdk": 23,
+  "requiresBridgeVersion": 7,
+  "automaticUpdates": false,
+  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-TV-Receiver-v0.1.0.apk"
+}
