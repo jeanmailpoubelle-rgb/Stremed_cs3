@@ -1,22 +1,11 @@
 {
   "name": "Cloudstream Media Finder",
-  "version": "1.1.2",
-  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.2.zip",
-  "sha256": "ee295570b797d94aa06a0e4c44a0d7bd2015d79cc633e5350150b6a3e9ff24ab",
-  "fileSize": 37822,
+  "version": "1.1.3",
+  "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.3.zip",
+  "sha256": "e6ebc4147b8ad51c23a4ab21ac8d74c4477a050a61e59ade82f72d41c31d1c7c",
+  "fileSize": 37821,
   "minimumChromeVersion": "111",
   "requiresBridgeVersion": 7,
   "automaticUpdates": false,
-  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc",
-  "crx": {
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Cloudstream-Media-Finder-v1.1.2.crx",
-    "sha256": "48770c1076dbc3f3593cc18e212dec89a5631a5717b1fe36ceb7295443a723ad",
-    "fileSize": 38415,
-    "extensionId": "nbmahkighheefgpcgehllppifcblnccc",
-    "format": 3
-  },
-  "updateManifestUrl": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/browser-updates.xml",
-  "selfHostedUpdatesConfigured": true,
-  "updateMechanism": "browser-native-signed-crx",
-  "androidUpdateValidation": "pending"
+  "signingExtensionId": "nbmahkighheefgpcgehllppifcblnccc"
 }
