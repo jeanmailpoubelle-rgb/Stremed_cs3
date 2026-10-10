@@ -126,10 +126,10 @@
     "name": "Anime-Sama"
   },
   {
-    "fileHash": "sha256-e654be63ab8ea62e5722cd52e01f460ef260b0aeee0a788b5eea8ce236bd64e1",
+    "fileHash": "sha256-d2bc6fdf51ae3914637dadad3795c4bc962c8663e8b773b2da749e9fa2b1c93e",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 165740,
+    "fileSize": 174875,
     "status": 1,
     "language": "zh-HK",
     "authors": [
@@ -141,10 +141,10 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 9,
+    "version": 10,
     "internalName": "UVOD",
     "description": "UVOD Cantonese or Hong Kong movies and episodes, portrait cards and randomized discovery, shared French-first metadata with artwork, cast, French genres, runtime and ratings. Sports, Kids and category 108 are excluded.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/UVOD-v9.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/UVOD-v10.cs3",
     "name": "UVOD"
   },
   {
