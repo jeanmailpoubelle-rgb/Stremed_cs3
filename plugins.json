@@ -21,10 +21,10 @@
   },
   {
     "iconUrl": "https://streamed.pk/favicon.png",
-    "fileHash": "sha256-9706103b1cc21d40c83b3e25375b2b5a2cddc9831a463e263f5e58042724d230",
+    "fileHash": "sha256-a8537f7ebdf31508105b3189393ab3567f76d7ba291df07b4d46f6ee45f758b5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 37408,
+    "fileSize": 44535,
     "status": 1,
     "language": "en",
     "authors": [
@@ -33,11 +33,11 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Streamed",
     "description": "Live sports from Streamed.pk: live events, schedules, sports categories and search. Includes a saved, editable website URL. Requires Android WebView for playback.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Streamed-v6.cs3",
-    "name": "Streamed v6"
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Streamed-v7.cs3",
+    "name": "Streamed v7"
   },
   {
     "iconUrl": "https://shstream.top/wp-content/uploads/2026/07/shstream-favicon-1.png",
