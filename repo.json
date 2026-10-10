@@ -1,0 +1,8 @@
+{
+  "name": "Streamed Sports",
+  "description": "Streamed sports, RénéVéo French TV, SHSTREAM, WiTV, Frembed, Anime-Sama, Browser Stream Bridge, YesHD and UVOD for Cloudstream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/plugins.json"
+  ]
+}

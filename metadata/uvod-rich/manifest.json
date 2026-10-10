@@ -1,0 +1,11 @@
+{
+  "schema" : 2,
+  "source" : "uvod",
+  "profile" : "fr-en-rich-v3",
+  "generatedAt" : 1791608987100,
+  "artifact" : "catalog-722da727170c6c657775fcf4de0f9a26207c508a90999d52b902e9b163f63427.json.gz",
+  "sha256" : "722da727170c6c657775fcf4de0f9a26207c508a90999d52b902e9b163f63427",
+  "bytes" : 2486431,
+  "records" : 4553,
+  "attribution" : "This product uses the TMDB API but is not endorsed or certified by TMDB."
+}

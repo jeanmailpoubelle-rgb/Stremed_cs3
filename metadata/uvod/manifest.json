@@ -1,0 +1,11 @@
+{
+  "schema" : 1,
+  "source" : "uvod",
+  "profile" : "fr-en-v2",
+  "generatedAt" : 1791608987100,
+  "artifact" : "catalog-f408a81e2b9b56729fbbcc27f5b5cc22936ee2a49bfe375ee9c59aafcfb828c2.json.gz",
+  "sha256" : "f408a81e2b9b56729fbbcc27f5b5cc22936ee2a49bfe375ee9c59aafcfb828c2",
+  "bytes" : 900452,
+  "records" : 4553,
+  "attribution" : "This product uses the TMDB API but is not endorsed or certified by TMDB."
+}

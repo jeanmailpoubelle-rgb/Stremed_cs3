@@ -1,0 +1,188 @@
+[
+  {
+    "iconUrl": "https://reneveo.store/assets/favicon.png",
+    "fileHash": "sha256-b25beadc58d1987e6a828d75f2e72897ffb5fa8a6630de803e79db2660c08e32",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 35459,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+      "Reneveo Extension Contributors"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 2,
+    "internalName": "Reneveo",
+    "description": "Télévision française en direct sur RénéVéo : catégories, recherche, serveurs HLS et adresse du site modifiable.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Reneveo-v2.cs3",
+    "name": "RénéVéo"
+  },
+  {
+    "iconUrl": "https://streamed.pk/favicon.png",
+    "fileHash": "sha256-9706103b1cc21d40c83b3e25375b2b5a2cddc9831a463e263f5e58042724d230",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 37408,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Streamed Extension Contributors"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 6,
+    "internalName": "Streamed",
+    "description": "Live sports from Streamed.pk: live events, schedules, sports categories and search. Includes a saved, editable website URL. Requires Android WebView for playback.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Streamed-v6.cs3",
+    "name": "Streamed v6"
+  },
+  {
+    "iconUrl": "https://shstream.top/wp-content/uploads/2026/07/shstream-favicon-1.png",
+    "fileHash": "sha256-7d47d8bed8029481b8e83f230edd442b7c7535f26085da4352767b8c69a0f2ad",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 34229,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "SHSTREAM Extension Contributors"
+    ],
+    "tvTypes": [
+      "Live",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "SHStream",
+    "description": "Live sports from SHSTREAM with portrait posters, match and channel choices, multiple servers and an editable website URL.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/SHStream-v1.cs3",
+    "name": "SHSTREAM"
+  },
+  {
+    "iconUrl": "https://witv.football/templates/witv/images/witv-logo-w2.png",
+    "fileHash": "sha256-3eeb396b73a22b97061a2dbd756a9f37e4ffc83328fa594b6e7a6e3559064b43",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 38353,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+      "WiTV Extension Contributors"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "WiTV",
+    "description": "WiTV : chaînes françaises en direct, catégories, programme football, recherche, plusieurs sources et adresse du site modifiable. Cartes horizontales avec logos proportionnels.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/WiTV-v1.cs3",
+    "name": "WiTV"
+  },
+  {
+    "iconUrl": "https://frembed.surf/favicon-32x32.png",
+    "fileHash": "sha256-67cc1f29033d17b217de5877ef76bbdfb29da2fa26775858ec256ebc0ca9e075",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 57451,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+      "Frembed Extension Contributors"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 4,
+    "internalName": "Frembed",
+    "description": "Films, séries et animés Frembed : affiches verticales, recherche, saisons et épisodes, lecteur VIP public et serveurs VF/VOSTFR/VO, adresse du site modifiable.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Frembed-v4.cs3",
+    "name": "Frembed"
+  },
+  {
+    "iconUrl": "https://anime-sama.to/favicon.ico",
+    "fileHash": "sha256-fa2cbe6c19c5bb8880045d80eb2b26bf0cc7f08eb33369b10a01a2252d455316",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 68270,
+    "status": 1,
+    "language": "fr",
+    "authors": [
+      "Anime-Sama Extension Contributors"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 5,
+    "internalName": "AnimeSama",
+    "description": "Anime-Sama : sélecteur VF/VOSTFR sur la fiche, saisons/sagas/films dans l'ordre du site, langue conservée avec Suivant et épisodes indisponibles signalés. Cartes horizontales sans padding. Sibnet exclu. Adresse modifiable.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/AnimeSama-v5.cs3",
+    "name": "Anime-Sama"
+  },
+  {
+    "fileHash": "sha256-eaf4d828f8b170f88589932e42e16ec5beb460b5f5bbf36f0b3db1db6c1084e2",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 165769,
+    "status": 1,
+    "language": "zh",
+    "authors": [
+      "UVOD Extension Contributors"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 8,
+    "internalName": "UVOD",
+    "description": "UVOD Cantonese or Hong Kong movies and episodes, portrait cards and randomized discovery, shared French-first metadata with artwork, cast, French genres, runtime and ratings. Sports, Kids and category 108 are excluded.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/UVOD-v8.cs3",
+    "name": "UVOD"
+  },
+  {
+    "fileHash": "sha256-c8c7d15ea519d04e693906748134d343d8e0330517f214639aa4fb023b2c54f7",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 40220,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Browser Stream Bridge Contributors"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 7,
+    "internalName": "BrowserStreamBridge",
+    "description": "Generic browser-to-player bridge with subtitle-specific headers, verified HTTPS recovery, ClearKey settings and HLS transport decoding. No catalogue or homepage.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/BrowserStreamBridge-v7.cs3",
+    "name": "Browser Stream Bridge"
+  },
+  {
+    "fileHash": "sha256-5e286e8e4c8b7c31e50ce1f40353a02f75cc1099a993a87a7e649a8387081dc8",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 178109,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "YesHD Extension Contributors"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 7,
+    "internalName": "YesHD",
+    "description": "YesHD Hong Kong movies with French genres by catalogue size and decades newest to oldest, portrait cards, IMDb scores and cast. Erotic/18+ excluded.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v7.cs3",
+    "name": "YESHD"
+  }
+]
