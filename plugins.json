@@ -167,10 +167,10 @@
     "name": "Browser Stream Bridge"
   },
   {
-    "fileHash": "sha256-6c8d384ead82ecdfaeee194a61c62415548c0963cfde76488b4bbdcea687ef61",
+    "fileHash": "sha256-dcaabaca824dcf61fd644edb840eebfde42e0a05e5063efc49b4854f7e627385",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 186726,
+    "fileSize": 192280,
     "status": 1,
     "language": "zh-HK",
     "authors": [
@@ -179,10 +179,10 @@
     "tvTypes": [
       "Movie"
     ],
-    "version": 10,
+    "version": 11,
     "internalName": "YesHD",
     "description": "YesHD Hong Kong movies with French genres by catalogue size and decades newest to oldest, portrait cards, IMDb scores and cast. Erotic/18+ excluded.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v10.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v11.cs3",
     "name": "YesHD"
   }
 ]
