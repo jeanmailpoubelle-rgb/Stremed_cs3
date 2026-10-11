@@ -81,11 +81,11 @@
     "name": "WiTV"
   },
   {
-    "iconUrl": "https://frembed.surf/favicon-32x32.png",
-    "fileHash": "sha256-67cc1f29033d17b217de5877ef76bbdfb29da2fa26775858ec256ebc0ca9e075",
+    "iconUrl": "https://frembed.bar/favicon-32x32.png",
+    "fileHash": "sha256-a3bc4c8917d25a84511fa98a5397591a66e703d0ac4ca25e4d3c1eecf5719db2",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 57451,
+    "fileSize": 58629,
     "status": 1,
     "language": "fr",
     "authors": [
@@ -97,10 +97,10 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "Frembed",
     "description": "Films, séries et animés Frembed : affiches verticales, recherche, saisons et épisodes, lecteur VIP public et serveurs VF/VOSTFR/VO, adresse du site modifiable.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Frembed-v4.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Frembed-v5.cs3",
     "name": "Frembed"
   },
   {
