@@ -82,10 +82,10 @@
   },
   {
     "iconUrl": "https://frembed.bar/favicon-32x32.png",
-    "fileHash": "sha256-cd1a97fa8e950e94ce650951899098a7c03a68ff9ab2740618b5cd1007cdcc12",
+    "fileHash": "sha256-2c9160e49b2ea8564efcfbef25fec13f9cd4d53591799b35e73c4433ec9b2ee0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 60731,
+    "fileSize": 58624,
     "status": 1,
     "language": "fr",
     "authors": [
@@ -97,10 +97,10 @@
       "Anime",
       "AnimeMovie"
     ],
-    "version": 6,
+    "version": 7,
     "internalName": "Frembed",
     "description": "Films, séries et animés Frembed : affiches verticales, recherche, saisons et épisodes, lecteur VIP public et serveurs VF/VOSTFR/VO, adresse du site modifiable.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Frembed-v6.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/Frembed-v7.cs3",
     "name": "Frembed"
   },
   {
