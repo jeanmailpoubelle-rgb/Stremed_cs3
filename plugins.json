@@ -148,10 +148,10 @@
     "name": "UVOD"
   },
   {
-    "fileHash": "sha256-c8c7d15ea519d04e693906748134d343d8e0330517f214639aa4fb023b2c54f7",
+    "fileHash": "sha256-27608041c15dfe67aebfa73d81b6d1bee1c46750f1130a2f4b7cc06da3b279f5",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 40220,
+    "fileSize": 57829,
     "status": 1,
     "language": "en",
     "authors": [
@@ -160,10 +160,10 @@
     "tvTypes": [
       "Others"
     ],
-    "version": 7,
+    "version": 8,
     "internalName": "BrowserStreamBridge",
     "description": "Generic browser-to-player bridge with subtitle-specific headers, verified HTTPS recovery, ClearKey settings and HLS transport decoding. No catalogue or homepage.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/BrowserStreamBridge-v7.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/BrowserStreamBridge-v8.cs3",
     "name": "Browser Stream Bridge"
   },
   {
