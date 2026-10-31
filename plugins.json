@@ -186,10 +186,10 @@
     "name": "YesHD"
   },
   {
-    "fileHash": "sha256-87f6eb05eb79be2b8b400ef5ba54cce81271b2b82abda14d337d8622f1545cc3",
+    "fileHash": "sha256-0c106977e17a961bd0808e892e36fac2a12cbbc2a8d17fdbfb4c149a71c5803f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 47110,
+    "fileSize": 63616,
     "status": 1,
     "language": "en",
     "authors": [
@@ -198,10 +198,10 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 1,
+    "version": 2,
     "internalName": "PPV",
-    "description": "Live sports and channels from PPV: live events, upcoming schedules, sports categories, alternate sources and search. Horizontal cards and editable website address. Uses Android WebView for embedded players.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/PPV-v1.cs3",
+    "description": "Live sports and channels from PPV: live events, upcoming schedules, sports categories, alternate sources and search. Horizontal cards and editable website address. Browser-session playback with an optional player window for Play or browser checks.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/PPV-v2.cs3",
     "name": "PPV"
   }
 ]
