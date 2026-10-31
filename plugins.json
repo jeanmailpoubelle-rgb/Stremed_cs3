@@ -184,5 +184,24 @@
     "description": "YesHD Hong Kong movies with French genres by catalogue size and decades newest to oldest, portrait cards, IMDb scores and cast. Erotic/18+ excluded.",
     "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/YesHD-v11.cs3",
     "name": "YesHD"
+  },
+  {
+    "fileHash": "sha256-87f6eb05eb79be2b8b400ef5ba54cce81271b2b82abda14d337d8622f1545cc3",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
+    "fileSize": 47110,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "PPV Extension Contributors"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 1,
+    "internalName": "PPV",
+    "description": "Live sports and channels from PPV: live events, upcoming schedules, sports categories, alternate sources and search. Horizontal cards and editable website address. Uses Android WebView for embedded players.",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/PPV-v1.cs3",
+    "name": "PPV"
   }
 ]
