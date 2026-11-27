@@ -105,10 +105,10 @@
   },
   {
     "iconUrl": "https://anime-sama.to/favicon.ico",
-    "fileHash": "sha256-217c9c00853325cf2abb6165929d2a27ef101c748a617d1218eba9babdff0a3c",
+    "fileHash": "sha256-94f34c5cb1e09068f4f4cfb4a52007a7307f29bc3fd84e3d1ac189d5cab9809f",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/jeanmailpoubelle-rgb/Stremed_cs3",
-    "fileSize": 80321,
+    "fileSize": 81642,
     "status": 1,
     "language": "fr",
     "authors": [
@@ -119,10 +119,10 @@
       "AnimeMovie",
       "OVA"
     ],
-    "version": 8,
+    "version": 9,
     "internalName": "AnimeSama",
     "description": "Anime-Sama : sélecteur VF/VOSTFR sur la fiche, saisons/sagas/films dans l'ordre du site, langue conservée avec Suivant et épisodes indisponibles signalés. Cartes horizontales sans padding. Sibnet exclu. Adresse modifiable.",
-    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/AnimeSama-v8.cs3",
+    "url": "https://raw.githubusercontent.com/jeanmailpoubelle-rgb/Stremed_cs3/main/AnimeSama-v9.cs3",
     "name": "Anime-Sama"
   },
   {
